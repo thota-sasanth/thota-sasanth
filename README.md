@@ -86,7 +86,6 @@ I am a Master of Science in Computer science student from Stony Brook University
 
 ### IDEs/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-%2320232a?style=for-the-badge&logo=pycharm&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
