@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi! I'm Sasanth Thota 👋</br> 
 </h1>
 <h3 align="center"> Student @ Stony Brook University | IIT Bhilai Alum </h3>
-<p align="center>
+<p align="center">
 <a href="https://www.linkedin.com/in/sasanththota/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://github.com/thota-sasanth" target="_blank"><img alt="" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=Github&logoColor=white" style="vertical-align:center" /></a>
-<a href="thotasasanth@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a></p>
+<a href="thotasasanth@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
+</p>
 
 # About Me:
 I am a Master of Science in Computer science student from Stony Brook University (SUNY), New York. I have practical industry experience in the fields of Software Engineering & Machine Learning. I'm passionate about solving real world problems through programming. I'm interested in - 
