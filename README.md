@@ -71,7 +71,7 @@ I am a Master of Science in Computer science student from Stony Brook University
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/-AWS-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
-![AWS](https://img.shields.io/badge/-AWS Lambda-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
+![AWS](https://img.shields.io/badge/-AWS%20Lambda-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%2320232a.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%2320232a.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-%2320232a?style=for-the-badge&logo=heroku)
