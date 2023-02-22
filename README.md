@@ -32,8 +32,8 @@ I am a Master of Science in Computer science student from Stony Brook University
 > * Trustworthy AI <br>
 > * Competitive Programming <br>
 
-# 💻 Tech Stack:
-## Languages
+## 💻 Tech Stack:
+### Languages
 ![Python](https://img.shields.io/badge/-Python-%2320232a?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
