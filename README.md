@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 ## About Me:
-I am a Master of Science in Computer Science student from Stony Brook University (SUNY), New York. I have practical industry experience in the fields of Software Engineering & Machine Learning. I'm passionate about solving real world problems through programming. I'm interested in --
+I am a Master of Science in Computer Science student from Stony Brook University (SUNY), New York. I have practical industry experience in the fields of Software Engineering & Machine Learning. I'm passionate about solving real world problems through programming. I'm interested in -
 
 > * Full Stack Development <br>
 > * Machine Learning Operations (MLOps) <br>
