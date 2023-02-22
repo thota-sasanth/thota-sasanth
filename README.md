@@ -43,7 +43,7 @@ I am a Master of Science in Computer science student from Stony Brook University
 ![Markdown](https://img.shields.io/badge/-Markdown-%2320232a?style=for-the-badge&logo=markdown)
 
 
-## Frameworks/Libraries/Platforms
+### Frameworks/Libraries/Platforms
 ![ReactJS](https://img.shields.io/badge/-React.JS-%2320232a?style=for-the-badge&logo=react)
 ![Threejs](https://img.shields.io/badge/-D3.JS-%2320232a?style=for-the-badge&logo=d3.js)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-%2320232a?style=for-the-badge&logo=node.js&logoColor=pink)
@@ -60,7 +60,7 @@ I am a Master of Science in Computer science student from Stony Brook University
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%2320232a.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-#### Database
+### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2320232a?style=for-the-badge&logo=mongodb)
 ![IBM DB2](https://img.shields.io/badge/-IBM_DB2-%2320232a?style=for-the-badge&logo=ibm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a?style=for-the-badge&logo=mysql&logoColor=white)
@@ -69,7 +69,7 @@ I am a Master of Science in Computer science student from Stony Brook University
 ![SQLite](https://img.shields.io/badge/sqlite-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-#### Cloud
+### Cloud
 ![AWS](https://img.shields.io/badge/-AWS-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
 ![AWS](https://img.shields.io/badge/-AWS-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%2320232a.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -78,7 +78,7 @@ I am a Master of Science in Computer science student from Stony Brook University
 
 
 
-#### Tools
+### Tools
 ![Git](https://img.shields.io/badge/-Git-%2320232a?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-%2320232a?style=for-the-badge&logo=githubactions)
