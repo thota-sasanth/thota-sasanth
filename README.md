@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi! 👋</br> 
 </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Sasanth+Thota;Software+Engineer;Open+Source+AI%2FML+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I%27m+Sasanth+Thota;Software+Engineer;Open+Source+AI%2FML+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)]
 <h3 align="center"> Student @ Stony Brook University | IIT Bhilai Alum </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sasanththota/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%2320232a?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
