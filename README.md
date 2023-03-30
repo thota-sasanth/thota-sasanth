@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi! 👋</br> 
 </h1>
-<h3>
+<p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
- </h3>
+ </p>
 <h3 align="center"> Student @ Stony Brook University | IIT Bhilai Alum </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sasanththota/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%2320232a?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
