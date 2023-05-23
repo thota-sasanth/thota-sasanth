@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&center=true&width=830&lines=I'm+Sasanth+Thota;Software+Engineer;Student+%40+Stony+Brook+University+%7C+IIT+Bhilai+Alum;Nice+to+meet+you+!" alt="Typing SVG" /></a>
 <!-- <h3 align="center"> Student @ Stony Brook University | IIT Bhilai Alum </h3> -->
 <p align="center">
-  <a href="https://thotasasanth.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%2320232a?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+  <a href="https://thotasasanth.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-%2320232a?logo=portfolio&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/sasanththota/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%2320232a?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://github.com/thota-sasanth" target="_blank"><img alt="" src="https://img.shields.io/badge/GitHub-%2320232a?style=for-the-badge&logo=Github&logoColor=white" style="vertical-align:center" /></a>
 <a href="mailto:thotasasanth@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-%2320232a?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
