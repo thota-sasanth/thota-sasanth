@@ -37,6 +37,7 @@ I am a Master of Science in Computer Science student from Stony Brook University
 ## 💻 Tech Stack:
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-%2320232a?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2320232a?style=for-the-badge&logo=c&logoColor=white)
