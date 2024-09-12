@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 ## About Me:
-I am a Master of Science in Computer Science student from Stony Brook University (SUNY), New York. I have practical industry experience in the fields of Software Engineering & Machine Learning. I'm passionate about solving real world problems through programming. I'm interested in -
+I'm Sasanth, and I'm passionate about leveraging technology to solve complex problems and make impactful contributions. With a 🎓 Master's in Computer Science from Stony Brook University (SUNY) and a Bachelor's in Computer Science from the Indian Institute of Technology (IIT) Bhilai, I bring a strong academic foundation to my work. Throughout my career, I've actively engaged in Software Engineering, Data Science, and Machine Learning, undertaking diverse projects that have sharpened my skills and expanded my expertise. I'm committed to continuous learning and growth, always eager to acquire new skills and push my limits as a developer. 📈 I'm interested in -
 
 > * Full Stack Development <br>
 > * Machine Learning Operations (MLOps) <br>
@@ -48,7 +48,6 @@ I am a Master of Science in Computer Science student from Stony Brook University
 
 ### Frameworks/Libraries/Platforms
 ![ReactJS](https://img.shields.io/badge/-React.JS-%2320232a?style=for-the-badge&logo=react)
-![Threejs](https://img.shields.io/badge/-D3.JS-%2320232a?style=for-the-badge&logo=d3.js)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-%2320232a?style=for-the-badge&logo=node.js&logoColor=pink)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-%2320232a?style=for-the-badge&logo=express)
@@ -56,7 +55,6 @@ I am a Master of Science in Computer Science student from Stony Brook University
 ![Django](https://img.shields.io/badge/-Django-%2320232a?style=for-the-badge&logo=django)
 ![Expo](https://img.shields.io/badge/expo-%2320232a?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%2320232a.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%2320232a.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%2320232a?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%2320232a.svg?style=for-the-badge&logo=Keras&logoColor=white)
