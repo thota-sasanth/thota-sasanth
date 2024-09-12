@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 </p>
 
 ## About Me:
-I'm Sasanth, and I'm passionate about leveraging technology to solve complex problems and make impactful contributions. With a 🎓 Master's in Computer Science from Stony Brook University (SUNY) and a Bachelor's in Computer Science from the Indian Institute of Technology (IIT) Bhilai, I bring a strong academic foundation to my work. Throughout my career, I've actively engaged in Software Engineering, Data Science, and Machine Learning, undertaking diverse projects that have sharpened my skills and expanded my expertise. I'm committed to continuous learning and growth, always eager to acquire new skills and push my limits as a developer. 📈 I'm interested in -
+I'm Sasanth, and I'm passionate about leveraging technology to solve complex problems and make impactful contributions. With a 🎓 Master's in Computer Science from Stony Brook University (SUNY) and a Bachelor's in Computer Science from the Indian Institute of Technology (IIT) Bhilai, I bring a strong academic foundation to my work. 
+<br>
+Throughout my career, I've actively engaged in Software Engineering, Data Science, and Machine Learning, undertaking diverse projects that have sharpened my skills and expanded my expertise. I'm committed to continuous learning and growth, always eager to acquire new skills and push my limits as a developer. 📈 I'm interested in -
 
 > * Full Stack Development <br>
 > * Machine Learning Operations (MLOps) <br>
