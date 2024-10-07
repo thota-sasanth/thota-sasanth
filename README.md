@@ -53,7 +53,7 @@ I'm interested in -
 
 
 ### Frameworks/Libraries/Platforms
-![D3JS](https://img.shields.io/badge/-d3dotjs-%2320232a?style=for-the-badge&logo=d3dotjs)
+![D3JS](https://img.shields.io/badge/-D3JS-%2320232a?style=for-the-badge&logo=d3dotjs)
 ![ReactJS](https://img.shields.io/badge/-React.JS-%2320232a?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-%2320232a?style=for-the-badge&logo=node.js&logoColor=pink)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=white)
