@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi! 👋</br> 
 </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&center=true&width=830&lines=I'm+Sasanth+Thota;Software+Engineer;Student+%40+Stony+Brook+University+%7C+IIT+Bhilai+Alum;Nice+to+meet+you+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&center=true&width=830&lines=I'm+Sasanth+Thota;Software+Engineer;CS+Grad+%40+Stony+Brook+University+%7C+IIT+Bhilai+Alum;Nice+to+meet+you+!" alt="Typing SVG" /></a>
 <!-- <h3 align="center"> Student @ Stony Brook University | IIT Bhilai Alum </h3> -->
 <p align="center">
   <a href="https://thotasasanth.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-%2320232a?logo=PyUp&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 I'm Sasanth, and I'm passionate about leveraging technology to solve complex problems and make impactful contributions. With a 🎓 Master's in Computer Science from Stony Brook University (SUNY) and a Bachelor's in Computer Science from the Indian Institute of Technology (IIT) Bhilai, I bring a strong academic foundation to my work. 
 <br>
 <br>
-Throughout my career, I've actively engaged in Software Engineering, Data Science, and Machine Learning, undertaking diverse projects that have sharpened my skills and expanded my expertise. I'm committed to continuous learning and growth, always eager to acquire new skills and push my limits as a developer. 📈 I'm interested in -
+Throughout my career, I've actively engaged in Software Engineering, Data Science, and Machine Learning, undertaking diverse projects that have sharpened my skills and expanded my expertise. I'm committed to continuous learning and growth, always eager to acquire new skills and push my limits as a developer. 📈 <br>
+<br>
+I'm interested in -
 
 > * Full Stack Development <br>
-> * Machine Learning Operations (MLOps) <br>
 > * Data Science <br>
+> * Machine Learning Operations (MLOps) <br>
 > * Trustworthy AI <br>
 > * Competitive Programming <br>
 
@@ -42,6 +44,7 @@ Throughout my career, I've actively engaged in Software Engineering, Data Scienc
 ![Python](https://img.shields.io/badge/-Python-%2320232a?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-JavaScript-%2320232a?style=for-the-badge&logo=typescript)
 ![C++](https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2320232a?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%2320232a?style=for-the-badge&logo=html5)
