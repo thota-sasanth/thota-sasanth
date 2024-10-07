@@ -62,7 +62,7 @@ I'm interested in -
 ![Django](https://img.shields.io/badge/-Django-%2320232a?style=for-the-badge&logo=django)
 ![Expo](https://img.shields.io/badge/expo-%2320232a?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![springboot](https://img.shields.io/badge/springboot-%2320232a?style=for-the-badge&logo=springboot&logoColor=#D04A37)
-![junit5](https://img.shields.io/badge/junit5-%2320232a?style=for-the-badge&logo=junit5&logoColor=#D04A37)
+![junit](https://img.shields.io/badge/junit5-%2320232a?style=for-the-badge&logo=junit5&logoColor=#D04A37)
 ![apachekafka](https://img.shields.io/badge/apachekafka-%2320232a?style=for-the-badge&logo=apachekafka&logoColor=#D04A37)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%2320232a.svg?style=for-the-badge&logo=numpy&logoColor=blue)
