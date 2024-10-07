@@ -74,11 +74,24 @@ I'm interested in -
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2320232a?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/-Amazon_DynamoDB-%2320232a?style=for-the-badge&logo=Amazon%20DynamoDB)
 ![SQLite](https://img.shields.io/badge/sqlite-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![dbeaver](https://img.shields.io/badge/dbeaver-%2320232a.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%2320232a.svg?style=for-the-badge&logo=redis&logoColor=white)
+![xml](https://img.shields.io/badge/xml-%2320232a.svg?style=for-the-badge&logo=xml&logoColor=white)
+![apachespark](https://img.shields.io/badge/apachespark-%2320232a.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 
 
 ### Cloud
+![amazons3](https://img.shields.io/badge/-amazons3-%2320232a?style=for-the-badge&logo=amazons3)
+![amazonec2](https://img.shields.io/badge/-amazonec2-%2320232a?style=for-the-badge&logo=amazonec2)
+![amazonrds](https://img.shields.io/badge/-amazonrds-%2320232a?style=for-the-badge&logo=amazonrds)
+![amazonecs](https://img.shields.io/badge/-amazonecs-%2320232a?style=for-the-badge&logo=amazonecs)
+![amazoneks](https://img.shields.io/badge/-amazoneks-%2320232a?style=for-the-badge&logo=amazoneks)
+![amazonsimpleemailservice](https://img.shields.io/badge/-amazonsimpleemailservice-%2320232a?style=for-the-badge&logo=amazonsimpleemailservice)
+![amazondynamodb](https://img.shields.io/badge/-amazondynamodb-%2320232a?style=for-the-badge&logo=amazondynamodb)
+![awslambda](https://img.shields.io/badge/-awslambda-%2320232a?style=for-the-badge&logo=awslambda)
+![googlecloud](https://img.shields.io/badge/-awslambda-%2320232a?style=for-the-badge&logo=awslambda)
+![databricks](https://img.shields.io/badge/-awslambda-%2320232a?style=for-the-badge&logo=awslambda)
 ![AWS](https://img.shields.io/badge/-AWS-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
-![AWS](https://img.shields.io/badge/-AWS%20Lambda-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
 ![AWS](https://img.shields.io/badge/-AWS%20SageMaker-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%2320232a.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%2320232a.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -91,6 +104,15 @@ I'm interested in -
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-%2320232a?style=for-the-badge&logo=githubactions)
 ![Bitbucket](https://img.shields.io/badge/-bitbucket-%2320232a?style=for-the-badge&logo=bitbucket)
+![jirasoftware](https://img.shields.io/badge/-jirasoftware-%2320232a?style=for-the-badge&logo=jirasoftware)
+![confluence](https://img.shields.io/badge/-confluence-%2320232a?style=for-the-badge&logo=confluence)
+![gnubash](https://img.shields.io/badge/-gnubash-%2320232a?style=for-the-badge&logo=gnubash)
+![apachemaven](https://img.shields.io/badge/-apachemaven-%2320232a?style=for-the-badge&logo=apachemaven)
+![docker](https://img.shields.io/badge/-docker-%2320232a?style=for-the-badge&logo=docker)
+![kubernetes](https://img.shields.io/badge/-kubernetes-%2320232a?style=for-the-badge&logo=kubernetes)
+![datadog](https://img.shields.io/badge/-datadog-%2320232a?style=for-the-badge&logo=datadog)
+![tableau](https://img.shields.io/badge/-tableau-%2320232a?style=for-the-badge&logo=tableau)
+
 
 ### IDEs/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=white)
