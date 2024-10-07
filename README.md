@@ -88,11 +88,9 @@ I'm interested in -
 ![amazonsimpleemailservice](https://img.shields.io/badge/-amazonsimpleemailservice-%2320232a?style=for-the-badge&logo=amazonsimpleemailservice)
 ![Amazon DynamoDB](https://img.shields.io/badge/-Amazon_DynamoDB-%2320232a?style=for-the-badge&logo=Amazon%20DynamoDB)
 ![awslambda](https://img.shields.io/badge/-awslambda-%2320232a?style=for-the-badge&logo=awslambda)
+![AWS](https://img.shields.io/badge/-AWS%20SageMaker-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
 ![googlecloud](https://img.shields.io/badge/-googlecloud-%2320232a?style=for-the-badge&logo=googlecloud)
 ![databricks](https://img.shields.io/badge/-databricks-%2320232a?style=for-the-badge&logo=databricks)
-![AWS](https://img.shields.io/badge/-AWS-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
-![AWS](https://img.shields.io/badge/-AWS%20SageMaker-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%2320232a.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%2320232a.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-%2320232a?style=for-the-badge&logo=heroku)
 
