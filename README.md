@@ -90,7 +90,7 @@ I'm interested in -
 ![Git](https://img.shields.io/badge/-Git-%2320232a?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-%2320232a?style=for-the-badge&logo=githubactions)
-
+![Bitbucket](https://img.shields.io/badge/-bitbucket-%2320232a?style=for-the-badge&logo=bitbucket)
 
 ### IDEs/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=white)
