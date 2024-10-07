@@ -53,6 +53,7 @@ I'm interested in -
 
 
 ### Frameworks/Libraries/Platforms
+![d3dotjs](https://img.shields.io/badge/-d3dotjs-%2320232a?style=for-the-badge&logo=d3dotjs)
 ![ReactJS](https://img.shields.io/badge/-React.JS-%2320232a?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-%2320232a?style=for-the-badge&logo=node.js&logoColor=pink)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -60,6 +61,9 @@ I'm interested in -
 ![Flask](https://img.shields.io/badge/-Flask-%2320232a?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-%2320232a?style=for-the-badge&logo=django)
 ![Expo](https://img.shields.io/badge/expo-%2320232a?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![springboot](https://img.shields.io/badge/springboot-%2320232a?style=for-the-badge&logo=springboot&logoColor=#D04A37)
+![junit5](https://img.shields.io/badge/junit5-%2320232a?style=for-the-badge&logo=junit5&logoColor=#D04A37)
+![apachekafka](https://img.shields.io/badge/apachekafka-%2320232a?style=for-the-badge&logo=apachekafka&logoColor=#D04A37)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%2320232a.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%2320232a?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
@@ -114,6 +118,6 @@ I'm interested in -
 ### IDEs/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![intellijidea](https://img.shields.io/badge/intellijidea-%2320232a.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 
